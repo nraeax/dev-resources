@@ -11,3 +11,7 @@ A collection of resources to aid with development projects.
 ### Icons
 - [Iconify](https://fonts.google.com)
 - [Font Awesome](https://www.blindtextgenerator.com/lorem-ipsum)
+
+## Colour
+- [CSS Gradient](https://cssgradient.io/)
+- [Tint & Shade Generator]([https://fonts.google.com](https://maketintsandshades.com/)https://maketintsandshades.com/)
