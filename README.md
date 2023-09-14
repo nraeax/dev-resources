@@ -2,16 +2,17 @@
 
 A collection of resources to aid with development projects.
 
-## Resources
+## Text & Copy
+- <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
+- <a href="https://www.blindtextgenerator.com/lorem-ipsum" target="_blank">Dummy Text Generator</a>
 
-### Text & Copy
-- [Google Fonts](https://fonts.google.com)
-- [Dummy Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
-
-### Icons
-- [Iconify](https://fonts.google.com)
-- [Font Awesome](https://www.blindtextgenerator.com/lorem-ipsum)
+## Icons
+- <a href="https://iconify.design" target="_blank">Iconify</a>
+- <a href="https://fontawesome.com" target="_blank">Font Awesome</a>
 
 ## Colour
-- [CSS Gradient](https://cssgradient.io/)
-- [Tint & Shade Generator](https://maketintsandshades.com/)
+- <a href="https://cssgradient.io" target="_blank">CSS Gradient</a>
+- <a href="https://maketintsandshades.com" target="_blank">Tint & Shade Generator</a>
+
+## Documentation
+- <a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a>
