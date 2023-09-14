@@ -14,4 +14,4 @@ A collection of resources to aid with development projects.
 
 ## Colour
 - [CSS Gradient](https://cssgradient.io/)
-- [Tint & Shade Generator]([https://fonts.google.com](https://maketintsandshades.com/)https://maketintsandshades.com/)
+- [Tint & Shade Generator](https://maketintsandshades.com/)
