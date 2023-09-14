@@ -6,5 +6,4 @@ A collection of resources to aid with development projects.
 
 ### Text & Copy
 
-[Dummy Text Generator]([https://en.wikipedia.org/wiki/Dashboard(business)](https://www.blindtextgenerator.com/lorem-ipsum)https://www.blindtextgenerator.com/lorem-ipsum) 
-
+[Dummy Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
