@@ -16,3 +16,4 @@ A collection of resources to aid with development projects.
 
 ## Documentation
 - <a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a>
+- <a href="https://vuejs.org/guide/introduction.html" target="_blank">Vue Docs</a>
