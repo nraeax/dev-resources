@@ -11,6 +11,7 @@ A collection of resources to aid with development projects.
 - <a href="https://fontawesome.com" target="_blank">Font Awesome</a>
 
 ## Colour
+- <a href="https://yeun.github.io/open-color/" target="_blank">Open Color</a>
 - <a href="https://cssgradient.io" target="_blank">CSS Gradient</a>
 - <a href="https://maketintsandshades.com" target="_blank">Tint & Shade Generator</a>
 
