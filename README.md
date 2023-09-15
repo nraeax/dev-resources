@@ -13,7 +13,8 @@ A collection of resources to aid with development projects.
 ## Colour
 - <a href="https://yeun.github.io/open-color/" target="_blank">Open Color</a>
 - <a href="https://cssgradient.io" target="_blank">CSS Gradient</a>
-- <a href="https://maketintsandshades.com" target="_blank">Tint & Shade Generator</a>
+- [Tint & Shade Generator](https://maketintsandshades.com)
+- [RGBA To Hex](https://rgbacolorpicker.com/rgba-to-hex)
 
 ## Documentation
 - <a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a>
