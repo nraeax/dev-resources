@@ -6,8 +6,9 @@ A collection of resources to aid with development projects.
 - [FrontEnd Developer Roadmap](https://roadmap.sh/frontend)
 
 ## Documentation
-- <a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a>
-- <a href="https://vuejs.org/guide/introduction.html" target="_blank">Vue Docs</a>
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax)
+- [Vue Docs](https://vuejs.org/guide/introduction.html)
+- [Nuxt Docs](https://nuxt.com/docs)
 
 ## Text & Copy
 - <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
