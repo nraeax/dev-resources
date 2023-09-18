@@ -7,6 +7,7 @@ A collection of resources to aid with development projects.
 
 ## Vue
 - [Vue Docs](https://vuejs.org/guide/introduction.html)
+- [Awesome Vue](https://awesome-vue.js.org/)
 - [Headless UI](https://headlessui.com)
 
 ## Text & Copy
