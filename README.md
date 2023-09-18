@@ -2,21 +2,19 @@
 
 A collection of resources to aid with development projects.
 
-## CSS
-- [Tailwind CSS](https://tailwindcss.com)
+## Roadmaps
+- [FrontEnd Developer Roadmap](https://roadmap.sh/frontend)
 
-## Vue
-- [Vue Docs](https://vuejs.org/guide/introduction.html)
-- [Awesome Vue](https://awesome-vue.js.org/)
-- [Headless UI](https://headlessui.com)
+## Documentation
+- <a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a>
+- <a href="https://vuejs.org/guide/introduction.html" target="_blank">Vue Docs</a>
 
 ## Text & Copy
 - <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
 - <a href="https://www.blindtextgenerator.com/lorem-ipsum" target="_blank">Dummy Text Generator</a>
 
-## Icons
-- <a href="https://iconify.design" target="_blank">Iconify</a>
-- <a href="https://fontawesome.com" target="_blank">Font Awesome</a>
+## CSS
+- [Tailwind CSS](https://tailwindcss.com)
 
 ## Colour
 - <a href="https://yeun.github.io/open-color/" target="_blank">Open Color</a>
@@ -24,9 +22,13 @@ A collection of resources to aid with development projects.
 - [Tint & Shade Generator](https://maketintsandshades.com)
 - [RGBA To Hex](https://rgbacolorpicker.com/rgba-to-hex)
 
-## Documentation
-- <a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a>
-- <a href="https://vuejs.org/guide/introduction.html" target="_blank">Vue Docs</a>
+## Icons
+- <a href="https://iconify.design" target="_blank">Iconify</a>
+- <a href="https://fontawesome.com" target="_blank">Font Awesome</a>
 
-## Roadmaps
-- [FrontEnd Developer Roadmap](https://roadmap.sh/frontend)
+## Vue
+- [Awesome Vue](https://awesome-vue.js.org/)
+- [Headless UI](https://headlessui.com)
+
+
+
