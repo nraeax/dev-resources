@@ -2,6 +2,13 @@
 
 A collection of resources to aid with development projects.
 
+## CSS
+- [Tailwind CSS](https://tailwindcss.com)
+
+## Vue
+- [Vue Docs](https://vuejs.org/guide/introduction.html)
+- [Headless UI](https://headlessui.com)
+
 ## Text & Copy
 - <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
 - <a href="https://www.blindtextgenerator.com/lorem-ipsum" target="_blank">Dummy Text Generator</a>
