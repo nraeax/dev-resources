@@ -31,6 +31,4 @@ A collection of resources to aid with development projects.
 - [Awesome Vue](https://awesome-vue.js.org/)
 - [Headless UI](https://headlessui.com)
 - [NuxtJS](https://nuxt.com)
-
-
-
+- [vue-chartjs](https://github.com/apertureless/vue-chartjs)
