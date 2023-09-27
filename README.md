@@ -28,6 +28,7 @@ A collection of resources to aid with development projects.
 - [Font Awesome](https://fontawesome.com)
 
 ## Javascript
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Day.js](https://day.js.org/)
 
 ## Vue
