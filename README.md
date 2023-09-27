@@ -11,21 +11,24 @@ A collection of resources to aid with development projects.
 - [Nuxt Docs](https://nuxt.com/docs)
 
 ## Text & Copy
-- <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
-- <a href="https://www.blindtextgenerator.com/lorem-ipsum" target="_blank">Dummy Text Generator</a>
+- [Google Fonts](https://fonts.google.com)
+- [Dummy Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 
 ## CSS
 - [Tailwind CSS](https://tailwindcss.com)
 
 ## Colour
-- <a href="https://yeun.github.io/open-color/" target="_blank">Open Color</a>
-- <a href="https://cssgradient.io" target="_blank">CSS Gradient</a>
+- [Open Color](https://yeun.github.io/open-color/)
+- [CSS Gradient](https://cssgradient.io)
 - [Tint & Shade Generator](https://maketintsandshades.com)
 - [RGBA To Hex](https://rgbacolorpicker.com/rgba-to-hex)
 
 ## Icons
-- <a href="https://iconify.design" target="_blank">Iconify</a>
-- <a href="https://fontawesome.com" target="_blank">Font Awesome</a>
+- [Iconify](https://iconify.design)
+- [Font Awesome](https://fontawesome.com)
+
+## Javascript
+- [Day.js](https://day.js.org/)
 
 ## Vue
 - [Awesome Vue](https://awesome-vue.js.org/)
