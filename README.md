@@ -33,4 +33,3 @@ A collection of resources to aid with development projects.
 ## Vue
 - [Awesome Vue](https://awesome-vue.js.org/)
 - [NuxtJS](https://nuxt.com)
-- [vue-chartjs](https://github.com/apertureless/vue-chartjs)
