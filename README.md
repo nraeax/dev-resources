@@ -24,6 +24,7 @@ A collection of resources to aid with development projects.
 - [RGBA To Hex](https://rgbacolorpicker.com/rgba-to-hex)
 
 ## Icons
+- [Icones](https://icones.js.org/)
 - [Iconify](https://iconify.design)
 - [Font Awesome](https://fontawesome.com)
 
