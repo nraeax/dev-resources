@@ -29,9 +29,13 @@ A collection of resources to aid with development projects.
 - [Font Awesome](https://fontawesome.com)
 
 ## Javascript
+- [MDN | Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Day.js](https://day.js.org/)
 
 ## Vue
 - [Awesome Vue](https://awesome-vue.js.org/)
 - [NuxtJS](https://nuxt.com)
+- [Vite](https://vitejs.dev/)
+- [VitePress](https://vitepress.dev/)
+- [Pinia](https://pinia.vuejs.org/)
