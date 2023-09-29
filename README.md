@@ -10,13 +10,18 @@ A collection of resources to aid with development projects.
 - [Vue Docs](https://vuejs.org/guide/introduction.html)
 - [Nuxt Docs](https://nuxt.com/docs)
 
+## Blogs
+- [CSS Tricks](https://css-tricks.com/)
+
 ## Text & Copy
 - [Google Fonts](https://fonts.google.com)
 - [Dummy Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 
+## HTML
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
 ## CSS
 - [Tailwind CSS](https://tailwindcss.com)
-- [CSS Tricks](https://css-tricks.com/)
 
 ## Colour
 - [Open Color](https://yeun.github.io/open-color/)
