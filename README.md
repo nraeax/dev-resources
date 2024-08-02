@@ -39,6 +39,7 @@ A collection of resources to aid with development projects.
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [JSHint](https://jshint.com/)
 - [Day.js](https://day.js.org/)
+- [Alpine.js](https://alpinejs.dev)
 
 ## Vue
 - [Awesome Vue](https://awesome-vue.js.org/)
